@@ -1,4 +1,5 @@
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { Home, Gallery, Explore, Artists } from './pages';
 import Navbar from "./components/Navbar";
 
 const App = () => {
