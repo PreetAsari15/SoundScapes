@@ -37,6 +37,9 @@ body:has(.card[data-color="green"]:hover) {
   .blue-gradient_text {
     @apply bg-gradient-to-r from-[#00c6ff] to-[#0072ff] bg-clip-text text-transparent;
   }
+  .gold-gradient_text {
+    @apply bg-gradient-to-r from-[#e5ef6c] to-[#c2cc53] bg-clip-text text-transparent;
+  }
 
   .input {
     @apply bg-white border border-gray-200 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 mt-2.5 font-normal shadow-card;
@@ -173,6 +176,14 @@ body:has(.card[data-color="green"]:hover) {
   border: #2b77e7;
   box-shadow: 0.6vmin 0.6vmin #336cc1, 1vmin 1vmin #0092db, 1vmin 1vmin #0092db,
     0.65vmin 1vmin #0092db, 1vmin 0.65vmin #0092db;
+}
+.neo-brutalism-gold {
+  background: #aebe04f5;
+  position: relative;
+  border-radius: 10px;
+  border: #c8d71bf5;
+  box-shadow: 0.6vmin 0.6vmin #ede612, 1vmin 1vmin #a8a324, 1vmin 1vmin #a8a324,
+    0.65vmin 1vmin #a8a324, 1vmin 0.65vmin #a8a324;
 }
 
 .neo-brutalism-white {

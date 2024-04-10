@@ -13,7 +13,7 @@ import { a } from "@react-spring/three";
 
 import spaceScene from "../assets/3d/space_boi.glb";
 // import { space } from "postcss/lib/list";
-const Space = ({isRotating, setIsRotating, ...props}) => {
+const Space = ({isRotating, setIsRotating, setCurrentStage, ...props}) => {
   const spaceRef = useRef();
 
   const{gl, viewport} = useThree();
