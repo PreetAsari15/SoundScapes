@@ -1,4 +1,4 @@
-# SoundScape Artists
+# SoundScape 3D Rendering
 
 Explore the world of SoundScape artists with an emphasis on John Cage. This React.js project features a blue gradient theme with descriptive content about influential artists in the genre.
 
@@ -12,3 +12,7 @@ Explore the world of SoundScape artists with an emphasis on John Cage. This Reac
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Explore the SoundScape Artists!
+
+## Final View:
+![image](https://github.com/PreetAsari15/SoundScapes/assets/99091837/b9e9112a-0d26-4bae-95a4-fa87f7e57843)
+
