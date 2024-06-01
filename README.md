@@ -2,7 +2,7 @@
 
 Explore the world of SoundScape artists with an emphasis on John Cage. This React.js project features a blue gradient theme with descriptive content about influential artists in the genre.
 
-### Live Link: https://github.com/PreetAsari15/SoundScapes
+### Live Link: https://3dsoundscapes-preetasari.netlify.app/
 
 ## Features
 - Discover the innovative compositions of John Cage and other SoundScape artists.
